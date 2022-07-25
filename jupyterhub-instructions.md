@@ -12,7 +12,7 @@ The first time you log in to the hub, you may select your own password. Whatever
 ## Storing data
 Each participant has a home directory on the hub at `/home/jupyter-<username>`.
 For sharing data between team members, we have also set up a data directory for each
-team at `/home/<codeathon-name>-team-<team-number>`.
+team at `/data/<codeathon-name>-team-<team-number>`.
 For large datasets, it may be better to use an AWS S3 storage bucket.
 See the codeathon team for help setting this up.
 

@@ -35,7 +35,7 @@ In the search bar next to "Services" at the top of the page search for "EC2" and
 
 On the EC2 screen, select "Launch instance" and then "Launch instance from template":
 
-![Launching instance from template]()
+![Launching instance from template]("img/launch-from-template.png")
 
 On the launch screen, select the template we've set up for you.
 Under "Source template", select "CodeathonQuickstart".

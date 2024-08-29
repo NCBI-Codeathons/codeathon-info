@@ -2,11 +2,11 @@
 
 ## Cloud accounts
 For instuctions on codeathon AWS cloud accounts and launching a virtual machine, see our [AWS Quickstart Guide](/aws-instructions.md).
-For information on codeathon GCP cloud accounts, see our [AWS Quickstart Guide](/aws-instructions.md).
+For information on codeathon GCP cloud accounts, see our [GCP Tutorials](/gcp_tutorials.md).
 
 
 ## JupyterHub
-For instructions on using the codeathon JupyterHub, see our [GCP Tutorials](/gcp_tutorials.md).
+For instructions on using the codeathon JupyterHub, see our [JupyterHub Instructions](/jupyterhub-instructions.md).
 
 ## Git/GitHub
 Here are some resources for learning git or refreshing your knowledge:

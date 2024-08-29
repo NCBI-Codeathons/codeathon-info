@@ -1,10 +1,12 @@
 # Technical information for NCBI Codeathon Participants
 
 ## Cloud accounts
-For instuctions on into the codeathon cloud account and launching a virtual machine, see our [AWS Quickstart Guide](/aws-instructions.md).
+For instuctions on codeathon AWS cloud accounts and launching a virtual machine, see our [AWS Quickstart Guide](/aws-instructions.md).
+For information on codeathon GCP cloud accounts, see our [AWS Quickstart Guide](/aws-instructions.md).
+
 
 ## JupyterHub
-For instructions on using the codeathon JupyterHub, see our [JupyterHub instructions](/jupyterhub-instructions.md).
+For instructions on using the codeathon JupyterHub, see our [GCP Tutorials](/gcp_tutorials.md).
 
 ## Git/GitHub
 Here are some resources for learning git or refreshing your knowledge:
